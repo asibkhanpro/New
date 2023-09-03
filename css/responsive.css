@@ -424,6 +424,9 @@
     .footer-menu:last-child::before {
         display: none;
     }
+    .border-box::after {
+        display: none;
+    }
 }
 
 
